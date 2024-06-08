@@ -13,7 +13,7 @@
 
 - ️🎧 I regularly listen [Stronger](https://www.youtube.com/watch?v=Xn676-fLq7I),[SCHDTX](https://www.youtube.com/watch?v=mmuBhumw4Nk)
 
-- 💬 Ask me about **Java Web**
+- 💬 Ask me about **Java and Java Spring**
 
 - 📫 How to reach me **vinhluong1722@gmail.com**
 
