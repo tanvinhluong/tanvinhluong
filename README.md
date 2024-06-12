@@ -5,7 +5,7 @@
 
 
 <h3 align="left">Profile:</h3>
-- 🏡 I was born and grown up in My Quy - Thap Muoi - Dong Thap
+- 🏡 I was born and grown up in **My Quy - Thap Muoi - Dong Thap**
 
 - 🌱 I’m currently learning **Spring Boot - Spring Security**
 
